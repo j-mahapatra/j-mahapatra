@@ -7,7 +7,7 @@ Hi 👋, I am Jagannath Mahapatra. I am a self-taught web developer from India.
 Connect with me on: </br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagannath-mahapatra)
-[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=red)](jagannathm.official@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=red)](mailto:jagannathm.official@gmail.com)
 
 # 💻 Tech Stack:
 
