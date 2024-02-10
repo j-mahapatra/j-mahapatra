@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi 👋, I am Jagannath Mahapatra. I am a self-taught web developer from India.
+Hi 👋, I am Jagannath Mahapatra, a full stack developer from India. With a keen eye for detail and a love for clean, efficient code, I strive to create seamless web experiences and solve complex problems. When I'm not coding, you can find me exploring the latest tech trends or enjoying moveis and video games. Let's connect and build something amazing together!
 
 # 🌐 Socials:
 
